@@ -1,8 +1,8 @@
 [workspace]
 members = [
-	# "xcm-simulator",
-	# "xcm-simulator/example",
-	"xcm-emulator",
-	"xcm-emulator/example",
-	"xcm-emulator/yayoi",
+  # "xcm-simulator",
+  # "xcm-simulator/example",
+  "xcm-emulator",
+  "xcm-emulator/example",
+  "xcm-emulator/yayoi",
 ]
